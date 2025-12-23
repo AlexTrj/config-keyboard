@@ -1,3 +1,0 @@
-- name: Build
-  env:
-    BOARD: nice_nano_v2  # Check this value for correctness
